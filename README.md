@@ -17,7 +17,7 @@
 - Export your ChatGPT history and data following OpenAI's documentation [here](https://help.openai.com/en/articles/7260999-how-do-i-export-my-chatgpt-history-and-data).
 - Extract ZIP. 
 - Place the file `conversations.json` into `data` directory such that the file is available at `data/conversations.json`
-- First run `chatpt_data_parser.ipynb` using either jupyter notebook or jupyter lab which will convert your raw JSON file into a simple CSV/spreadsheet. [Markdown converter coming soon]
+- First run `chatpt_data_parser.ipynb` using either jupyter notebook or jupyter lab which will convert your raw JSON file into a simple CSV/spreadsheet.
 - Second run `chatpt_data_analysis.ipynb` for data analysis, data visualization and some charts on your ChatGPT utilization. 
 
 ### Sample Outputs
