@@ -6,6 +6,8 @@ credentials.json
 token.json
 token.pickle
 
+# Ignore data directory
+data/
 
 # Default Python Ignore
 
